@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI Agent</string>
+    <string name="accessibility_service_description">
+        Ба AI Agent имкон медиҳад экрани телефони шуморо хонда, тибқи фармони
+        шумо дар барномаҳо амал иҷро кунад. Танҳо вақте фаъол аст, ки шумо
+        худатон агентро аз барнома оғоз кунед.
+    </string>
+</resources>
